@@ -5,7 +5,7 @@
 - [Sara De La Cruz] (https://github.com/Sara-DLC)
 - [Cedrik Boudreau] (https://github.com/cedriking)
 - [abcd] (https://github.com/abcd)
-- [Aseem](https://github.com/aseemsangalay)
+- [Afeem](https://github.com/afeem)
 - [Lashan Chamodya] (https://github.com/Lashan7)
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Santhosh Kumar] (https://github.com/santhosh-ch)
